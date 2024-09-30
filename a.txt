@@ -1,3 +1,3 @@
 This is A file
 This is new line in A file
-A new line in A file
+A updated new line in A file
